@@ -1,0 +1,15 @@
+.circle {
+  width: 270px; /* Adjust the width and height according to your needs */
+  height: 270px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle span {
+  text-align: center;
+}
+
+
